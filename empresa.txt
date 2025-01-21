@@ -1,5 +1,6 @@
 Sujeito Programador
 google
-apple
-tesla
+apple 
 meta
+tesla
+microsoft
