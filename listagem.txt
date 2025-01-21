@@ -1,0 +1,4 @@
+
+LISTAGEM DE TODODS USUARIOS DA NOSSA PLATAFORMA
+
+Buscar > nome > email e ID
